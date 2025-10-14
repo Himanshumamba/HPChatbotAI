@@ -1,3 +1,23 @@
+## How to Run the Project
+
+## 1. **Clone the repository**
+git clone https://github.com/Himanshumamba/HPChatbotAI.git
+cd HPChatbotAI
+
+## Install dependencies
+
+npm install
+
+## Create a .env file in the project root and add your OpenAI API key:
+
+ REACT_APP_OPENAI_API_KEY=your_openai_api_key_here
+
+
+## Start the development server
+
+ npm start
+
+
 ## Project Architecture Notes
 
 - **FormRegister.tsx** – Main multi-step form component.
